@@ -44,10 +44,10 @@ The application is designed using the **MVC (Model-View-Controller)** architectu
 
 **Acknowledge**
 
-**Bootstrap**: For providing a responsive and modern UI framework.
-**Hibernate**: For simplifying database interactions with ORM.
-**MySQL**: For a reliable and efficient database system.
-**Open Source Community**: For continuous support and contributions.
+-**Bootstrap**: For providing a responsive and modern UI framework.
+-**Hibernate**: For simplifying database interactions with ORM.
+-**MySQL**: For a reliable and efficient database system.
+-**Open Source Community**: For continuous support and contributions.
 
 ### Sequence Diagram
 
