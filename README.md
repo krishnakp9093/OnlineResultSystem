@@ -42,6 +42,13 @@ The application is designed using the **MVC (Model-View-Controller)** architectu
 - **View**: JSPs combined with Bootstrap for the user interface.
 - **Controller**: Servlets that process user requests and manage the flow of the application.
 
+**Acknowledge**
+
+**Bootstrap**: For providing a responsive and modern UI framework.
+**Hibernate**: For simplifying database interactions with ORM.
+**MySQL**: For a reliable and efficient database system.
+**Open Source Community**: For continuous support and contributions.
+
 ### Sequence Diagram
 
 ```plaintext
@@ -51,10 +58,4 @@ The application is designed using the **MVC (Model-View-Controller)** architectu
                          |                   |
                       View (JSP)          Database
 
-**Acknowledge**
-
-**Bootstrap**: For providing a responsive and modern UI framework.
-**Hibernate**: For simplifying database interactions with ORM.
-**MySQL**: For a reliable and efficient database system.
-**Open Source Community**: For continuous support and contributions.
 
